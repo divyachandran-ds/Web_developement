@@ -1,1 +1,0 @@
-# All images used in the code are from different sources all over the internet and are assumed to be in public domain. The codes are merely for used for practicing my web development skills, and are a product of the author’s imagination or used in a fictitious manner. The codes presented here are based on projects I had worked on from the website: https://www.codecademy.com/
